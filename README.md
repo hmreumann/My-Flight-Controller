@@ -3,7 +3,7 @@ Flight planning software
 
 The objective of this project is to join all the stakeholders involved in simple civil aviation operations (ex: schools, general aviation) in a unique platform.
 
-¿What i´ve seen?
+What i´ve seen?
 
 When the pilots are starting their flight training, they face many problems related to communications: they do not know when they will be able to fly, what aircraft, with what instructors, they do not know exactly what maneuvers they are going to do, and they do not have a good return of the flights they already made.
 
@@ -19,7 +19,7 @@ Who we are?
 
 I would like to form a team with professionals in the aeronautical industry and information systems.
  
-My name is Hernán Martínez Reumann. I am a Naval Pilot Pilot and Aircraft Instructor, and I also have a Bachelor's Degree in Administration from the Naval University Institute of Argentina.
+My name is Hernán Martínez Reumann. I am a Naval Pilot and Aircraft Instructor, and I also have a Bachelor's Degree in Administration from the Naval University Institute of Argentina.
 
 How to?
 
